@@ -1,9 +1,5 @@
 # Street Food Restaurant Website
 
-This project is a website template for a "Street Food Restaurant," created by Ryan-C892. It showcases a responsive design for a fictional restaurant, including pages for online orders and catering services.
-
-**Live Demo:** [https://ryan-c892.github.io/Street-Food-Restaurant.github.io/](https://ryan-c892.github.io/Street-Food-Restaurant.github.io/)
-
 ## Overview
 
 This website serves as an example of an online presence for a restaurant. It's designed to be user-friendly and provide essential information to potential customers. The site is built purely with front-end technologies, making it easy to deploy on platforms like GitHub Pages.
